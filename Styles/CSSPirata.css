@@ -1,0 +1,25 @@
+
+        @font-face {
+            font-family:titulo ;
+            src: url("../Fonts/SCRIPTIN.ttf");
+        }
+        @font-face {
+            font-family: alexpoema;
+            src: url("../Fonts/AlexBrush-Regular.ttf");
+        }
+        
+        body {background-image: url("../Images/40415663-pirate-ship-doodle-seamless-pattern-background.jpg")}
+        body {background-size: 40%;}
+        body {opacity: 50%;}
+        body {font-family:  alexpoema;}
+        body {font-size: 2em;}
+        body {font-weight: bold;}
+        
+        #container {background-color:rgb(185, 233, 131);
+            width: 80%;
+            margin: auto;
+            padding: 20px;} /*LUEGO LO QUITO*/
+        
+    #poema{width: 400px;
+        margin: auto;}
+    #poema h2{font-family: titulo;}
